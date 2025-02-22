@@ -1,0 +1,15 @@
+C:\Users\dkambich\CSharpFizzProject\bin\Debug\net9.0\CSharpFizzProject.exe
+C:\Users\dkambich\CSharpFizzProject\bin\Debug\net9.0\CSharpFizzProject.deps.json
+C:\Users\dkambich\CSharpFizzProject\bin\Debug\net9.0\CSharpFizzProject.runtimeconfig.json
+C:\Users\dkambich\CSharpFizzProject\bin\Debug\net9.0\CSharpFizzProject.dll
+C:\Users\dkambich\CSharpFizzProject\bin\Debug\net9.0\CSharpFizzProject.pdb
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.AssemblyInfoInputs.cache
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.AssemblyInfo.cs
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.csproj.CoreCompileInputs.cache
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.sourcelink.json
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.dll
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\refint\CSharpFizzProject.dll
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.pdb
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\CSharpFizzProject.genruntimeconfig.cache
+C:\Users\dkambich\CSharpFizzProject\obj\Debug\net9.0\ref\CSharpFizzProject.dll
